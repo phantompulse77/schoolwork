@@ -1,0 +1,3 @@
+movie = "Cinderella"
+
+print(movie)
